@@ -1891,7 +1891,7 @@ body {
 }
 
 .bg-success {
-  background-color: #18ce0f !important;
+  background-color: #000000 !important;
 }
 
 .bg-danger {
@@ -1961,11 +1961,11 @@ body {
 }
 
 .dropdown-menu.dropdown-primary {
-  background-color: #33813a;
+  background-color: #312f2f;
 }
 
 .dropdown-menu.dropdown-primary:before {
-  color: #33813a;
+  color: #3e3f3e;
 }
 
 .dropdown-menu.dropdown-primary .dropdown-header:not([href]):not([tabindex]) {
